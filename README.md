@@ -2,4 +2,4 @@
 
 Linux networks configuration on virtual machines.
 
-check src/report.md
+check src/readme.md
